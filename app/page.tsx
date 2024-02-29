@@ -9,8 +9,8 @@ const frameMetadata = getFrameMetadata({
     },
     {
       action: 'link',
-      label: 'Link to Google',
-      target: 'https://www.google.com',
+      label: 'Link to Noah Kahan',
+      target: 'https://www.youtube.com/watch?v=MXmQq7AkXYE',
     },
     {
       label: 'Redirect to pictures',
